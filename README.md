@@ -1,7 +1,3 @@
 # enp-forzar
 
-Discord : 
-   |
-   |
-   v
-https://discord.gg/ftWQQqh
+Discord : https://discord.gg/ftWQQqh
